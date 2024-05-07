@@ -1,1 +1,2 @@
 # AIChatbot
+Our AI chatbot, built using NLP techniques and libraries such as Spacy, along with support from Pillow and Matplotlib for visual output, offers a dynamic and user-friendly experience. Capable of processing both text and audio inputs, it is a rule-based chatbot to generate responses. Additionally, our chatbot integrates voice recognition functionality and includes a user feedback system for continuous improvement.
