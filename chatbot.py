@@ -17,7 +17,6 @@ class SimpleChatbot:
         self.nlp = nlp 
         self.recognizer = sr.Recognizer()
         self.weather_api_key = '3fad28b1f6617e940610f44e42304a7e' 
-        self.song_api_key = 'YOUR_LASTFM_API_KEY'  
 
     def get_user_input_text(self):
         user_input = input("You (Text): ")
